@@ -1,8 +1,56 @@
 # About India
 
 ## 1 - Independence  
-- 15 August 1947 (Independence from British rule )
-- Partition created Pakistan.
+1. British rule over India
+    Before 1947, the whole region (India + Pakistan + Bangladesh) was under British rule.
+2. Demand for Pakistan
+    The Muslim League, led by Muhammad Ali Jinnah, demanded a separate nation for Muslims.
+3. British decision to divide
+    Britain decided it could no longer rule India.
+    It accepted the partition plan.
+4. Indian Independence Act, 1947
+    Passed by the British Parliament.
+    Created two independent dominions:
+        India
+        Pakistan
+5. Date of independence
+    Pakistan: 14 August 1947
+    India: 15 August 1947
+
+
+### Role of Major Leaders
+## 1. Muhammad Ali Jinnah
+        Leader of All-India Muslim League
+        Demanded Pakistan (Lahore Resolution, 1940)
+        Became first Governor-General of Pakistan
+## 2. Indian National Congress
+        Leaders: Nehru, Patel, Gandhi
+        Wanted united India
+        Finally accepted partition to avoid civil war
+## 3. Mahatma Gandhi
+        Strongly opposed partition
+        Tried to stop communal violence
+        Accepted partition as unavoidable
+## 4. British Government
+        Wanted quick exit after World War II
+        Avoided responsibility for growing violence
+        Implemented partition hurriedly
+### Timeline (1940–1947) – Very Important
+# 1940 Lahore Resolution: Muslim League formally demands Pakistan
+# 1942 Quit India Movement and British authority weakened
+# 1946
+    Cabinet Mission Plan
+    Proposed united India with provinces grouped
+    Failed due to disagreement
+    Direct Action Day (16 Aug 1946)
+    Massive communal violence in Calcutta
+# 1947
+    Mountbatten Plan (3 June 1947)
+    Accepted partition
+    Indian Independence Act, 1947
+    Passed by British Parliament
+
+
 
 ## 2 - Republic Day ( Constitution )
 - 26 January 1950 
