@@ -177,4 +177,7 @@ Q9. State two geographical reasons for high agricultural productivity in Indo-Ga
 Q10. Give two consequences of rapid urbanisation in India.  
 - Pressure on infrastructure (housing, water, transport); growth of informal settlements and pollution.
 
-.
+
+Q11. Why do some Indian Presidents serve more or less than 5 years?
+Answer:
+Because of death, resignation, re-election, or continuation in office until a successor assumes charge as provided under Article 56.

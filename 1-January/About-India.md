@@ -130,7 +130,7 @@
 #  7.1.1 - Indus River System (Arabian Sea) - 3,180 KM 
    Flow  - Ladakh (India) → Pakistan → Arabian Sea
 #  Major Tributaries (India):
-   Jhelum: J&K → Pakistan
+   Jhelum: J & K → Pakistan
    Chenab: Himachal Pradesh → J&K → Pakistan
    Ravi: Himachal Pradesh → Punjab → Pakistan
    Beas: Himachal Pradesh → Punjab (joins Sutlej)
